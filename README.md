@@ -1,16 +1,16 @@
-# practise
+# Budding Beasts
 
-A new Flutter project.
+Productivity and Time Management App for Students struggling in Online Education.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+The problem we want to solve – Covid has impacted most students; many of them cannot focus on academics and get distracted due to the internet as everything is online and it affects their studies. Many people get zoned out, miss deadlines, cannot keep track of the pending work(assignments,quizzes), etc.
 
-A few resources to get you started if this is your first Flutter project:
+Detailed abstract solution – We wish to create an app that has features like to-do lists, Pomodoro timers, lo-fi music, calendar with highlighted deadlines.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The impact we wish to create – Pomodoro timers have proven scientifically to be a very effective method, it can help them stay focussed, many people including us love to study while listening to lo-fi music; to-do lists and deadline calendar can help them keep track of all the deadlines and important tasks and dates.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developers
+
+- [@ArshDawra](https://github.com/ArshDawra)
+- [@Bhargav](https://github.com/Bhargav-IITR)
